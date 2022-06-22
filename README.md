@@ -16,4 +16,5 @@ Aunado a esto se realizaron estudios de elemento finíto a distintos componentes
 
 #### Control
 Este robot tiene integrados dos motores NEMA 23, uno para cada brazo, acoplados a una caja planetaria de relacion 5:1 con un torque de 3Nm los cuales han sido controlados a través de PLC, cargando distintas rutinas de movimentos y un modo de control manual
+
 ![](https://lh3.googleusercontent.com/ZwEa3LJuDPer9LbCNPZaHh-JXOFyspvBoRM2AuN4535R3kzQMLFxztL6DuYf3P12Cojn=s142)![](https://lh3.googleusercontent.com/OWmjfeOQrk0koKG4Ngo5mbNYU67S7v780L1wtIkeZt2RxbeZDDEKVOsJYHpyt8EvJ0058ls=s170) ![](https://lh3.googleusercontent.com/kbzzEwno22NrZ-9ymP4TTJyrZSQVUdBm215C2_ypFIrJzi3wkb8J_4XAAqVZafF7HCap=s85)
