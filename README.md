@@ -19,10 +19,10 @@ Este robot tiene integrados dos motores NEMA 23, uno para cada brazo, acoplados 
 
 ![](https://lh3.googleusercontent.com/ZwEa3LJuDPer9LbCNPZaHh-JXOFyspvBoRM2AuN4535R3kzQMLFxztL6DuYf3P12Cojn=s142)![](https://lh3.googleusercontent.com/OWmjfeOQrk0koKG4Ngo5mbNYU67S7v780L1wtIkeZt2RxbeZDDEKVOsJYHpyt8EvJ0058ls=s170) ![](https://lh3.googleusercontent.com/kbzzEwno22NrZ-9ymP4TTJyrZSQVUdBm215C2_ypFIrJzi3wkb8J_4XAAqVZafF7HCap=s85)
 
-####Resultados
+#### Resultados
 ![](https://lh3.googleusercontent.com/3pedr03AkEI2qamDlt_uNLJ3ZCJSyiijzG-P9BamAamTzi8DZMgZM-99LONPpwVzBikqg04=s85)
 
 Como resultado se ubtuvo un robot delta 100% funcional y adecuado para cuaqueir tipo de aplicación industrial que implique un movimineto en dos grados de libertad.+
 
-####Participación
+#### Participación
 Mi labor dentro del proyecto fue 100% la realización del diseño de la geometría  de cada una de las piezas asi como la manufactura de ejes, bujes y terminado de piezas y la realización de codigos g para el maquinado CNC, finalmente me encargue del  correcto ensamble de este y la creacion de un control para el modo manual.
